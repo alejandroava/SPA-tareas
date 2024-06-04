@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "e95c",
+      "name": "alejandro",
+      "email": "alejovlasquez@gmail.com",
+      "password": "U2FsdGVkX1+q57HgKx80e47pD8X0eC6vVJ3jfgJPBOI="
+    },
+    {
+      "id": "69d7",
+      "name": "daniel",
+      "email": "alejo@gmail.com",
+      "password": "U2FsdGVkX1/TanPugShC6q4OK3yZfTXr9maVBo8OogQ="
+    },
+    {
+      "id": "8004",
+      "name": "alejandro",
+      "email": "alejovlasquez@gmail.com",
+      "password": "U2FsdGVkX19sUsKncCrS9q0zM81dn1LblODsOpT6kGA="
+    }
+  ],
+  "task": []
+}

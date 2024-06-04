@@ -1,0 +1,33 @@
+.register_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 10px;
+}
+.register_label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.register_input
+{
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+button {
+    display: block;
+    width: 20%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
